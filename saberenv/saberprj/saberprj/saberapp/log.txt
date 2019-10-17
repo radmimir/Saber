@@ -1,0 +1,32 @@
+{"level": "DEBUG", "message": "Blah blah blah"}
+{"level": "INFO", "message": "Everything is fine!"}
+{"level": "WARN", "message": "Hmmm, wait..."}
+{"level": "ERROR", "message": "Holly $@#t!"}
+{"level": "DEBUG", "message": "Blah blah blah"}
+{"level": "INFO", "message": "Everything is fine!"}
+{"level": "WARN", "message": "Hmmm, wait..."}
+{"level": "ERROR", "message": "Holly $@#t!"}
+{"level": "DEBUG", "message": "Blah blah blah"}
+{"level": "INFO", "message": "Everything is fine!"}
+{"level": "WARN", "message": "Hmmm, wait..."}
+{"level": "ERROR", "message": "Holly $@#t!"}
+{"level": "DEBUG", "message": "Blah blah blah"}
+{"level": "INFO", "message": "Everything is fine!"}
+{"level": "WARN", "message": "Hmmm, wait..."}
+{"level": "ERROR", "message": "Holly $@#t!"}
+{"level": "DEBUG", "message": "Blah blah blah"}
+{"level": "INFO", "message": "Everything is fine!"}
+{"level": "WARN", "message": "Hmmm, wait..."}
+{"level": "ERROR", "message": "Holly $@#t!"}
+{"level": "DEBUG", "message": "Blah blah blah"}
+{"level": "INFO", "message": "Everything is fine!"}
+{"level": "WARN", "message": "Hmmm, wait..."}
+{"level": "ERROR", "message": "Holly $@#t!"}
+{"level": "DEBUG", "message": "Blah blah blah"}
+{"level": "INFO", "message": "Everything is fine!"}
+{"level": "WARN", "message": "Hmmm, wait..."}
+{"level": "ERROR", "message": "Holly $@#t!"}
+{"level": "DEBUG", "message": "Blah blah blah"}
+{"level": "INFO", "message": "Everything is fine!"}
+{"level": "WARN", "message": "Hmmm, wait..."}
+{"level": "ERROR", "message": "Holly $@#t!"}

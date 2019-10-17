@@ -1,0 +1,24 @@
+version: '3'
+
+services:
+    nginx:
+        restart: always
+        image: nginx:latest
+        expose:
+          - 8000
+        ports:
+          - "8000:8000"
+        depends_on:
+            - python
+    python:
+        restart: always
+        build:
+            context: saberprj
+            dockerfile: Dockerfile
+        volumes:
+          - ./saberprj:/home/docker/code
+        expose:
+          - 8000
+        ports:
+            - "8001:8001"
+        command: "uwsgi --http=0.0.0.0:8001 --module saberprj.wsgi --chmod-socket=664"
