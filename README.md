@@ -16,4 +16,4 @@ The application requires docker toolbox installed.
 * `docker-compose down`
 
 ### Request format
-* `POST /read_log 127.0.0.1:8001 {"offset" : 0}`
+* `POST / 127.0.0.1:8001 {"offset" : 0}`
