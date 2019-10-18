@@ -15,15 +15,4 @@ The application requires docker toolbox installed.
 ### Request format
 * `POST /read_log 127.0.0.1:8001 {"offset" : 0}`
 
-### Responce format
-* {
-*  "ok": true,
-*  "next_offset": <number>,
-*  "total_size": <number>,
-*  "messages": [
-*    {"level": "INFO", "message": "Text 1"}
-*    {"level": "WARN", "message": "Text 2"}
-*    {"level": "ERROR", "message": "Text 3"}
-*  ]
-* }
 
