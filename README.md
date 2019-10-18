@@ -19,3 +19,6 @@ This project contains simple web-server, which parse the log-file using POST - r
 
 ### Request format
 * `POST / 127.0.0.1:8001 {"offset" : 0}`
+
+### Example of request
+* Example of simple request using Postman chrome application is in Example.png
