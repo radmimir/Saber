@@ -12,7 +12,8 @@ The application requires docker toolbox installed.
 * `docker-compose up -d` - daemon mode
 * `docker-compose up`    - simple mode
 
+### Stopping container
+* `docker-compose down`
+
 ### Request format
 * `POST /read_log 127.0.0.1:8001 {"offset" : 0}`
-
-
