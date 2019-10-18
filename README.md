@@ -21,9 +21,9 @@ The application requires docker toolbox installed.
 *  "next_offset": <number>,
 *  "total_size": <number>,
 *  "messages": [
-*    {"level": "INFO", "message": "Everything is fine!"}
-*    {"level": "WARN", "message": "Hmmm, wait... It looks like..."}
-*    {"level": "ERROR", "message": "Holly $@#t!"}
+*    {"level": "INFO", "message": "Text 1"}
+*    {"level": "WARN", "message": "Text 2"}
+*    {"level": "ERROR", "message": "Text 3"}
 *  ]
 * }
 
