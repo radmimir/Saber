@@ -5,8 +5,8 @@ Django, uWSGI and Nginx builded in a container using docker-compose
 This project contains simple web-server, which parse the log-file using POST - requests. 
 
 # The application requires:
- docker toolbox or docker desktop for windows: https://docs.docker.com/toolbox/toolbox_install_windows/
- docker for Ubuntu: https://docs.docker.com/install/linux/docker-ce/ubuntu/
+* docker toolbox or docker desktop for windows: https://docs.docker.com/toolbox/toolbox_install_windows/
+* docker for Ubuntu: https://docs.docker.com/install/linux/docker-ce/ubuntu/
 
 ### Build and run
 * go to the directory contains docker-compose.yml
