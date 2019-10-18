@@ -11,20 +11,19 @@ The application requires docker toolbox installed.
 * `docker-compose build`
 * `docker-compose up -d` - daemon mode
 * `docker-compose up`    - simple mode
-* go to 127.0.0.1 to see if works
 
 ### Request format
 * `POST /read_log 127.0.0.1:8001 {"offset" : 0}`
 
 ### Responce format
 * {
-  "ok": true,
-  "next_offset": <number>,
-  "total_size": <number>,
-  "messages": [
-    {"level": "INFO", "message": "Everything is fine!"}
-    {"level": "WARN", "message": "Hmmm, wait... It looks like..."}
-    {"level": "ERROR", "message": "Holly $@#t!"}
-  ]
-}
+*  "ok": true,
+*  "next_offset": <number>,
+*  "total_size": <number>,
+*  "messages": [
+*    {"level": "INFO", "message": "Everything is fine!"}
+*    {"level": "WARN", "message": "Hmmm, wait... It looks like..."}
+*    {"level": "ERROR", "message": "Holly $@#t!"}
+*  ]
+* }
 
